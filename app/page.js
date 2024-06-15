@@ -157,7 +157,7 @@ export default function Home() {
                 <TableRow>
                   <TableCell>Maria Lopez</TableCell>
                   <TableCell>4</TableCell>
-                  <TableCell>1.145</TableCell>
+                  <TableCell>+1.145</TableCell>
                 </TableRow>
 
                 <TableRow>
@@ -230,7 +230,7 @@ export default function Home() {
                 <TableRow>
                   <TableCell>Maria Lopez</TableCell>
                   <TableCell>4</TableCell>
-                  <TableCell>1.145</TableCell>
+                  <TableCell>+1.145</TableCell>
                 </TableRow>
 
                 <TableRow>
@@ -298,7 +298,7 @@ export default function Home() {
                 <TableRow>
                   <TableCell>Maria Lopez</TableCell>
                   <TableCell>4</TableCell>
-                  <TableCell>1.145</TableCell>
+                  <TableCell>+1.145</TableCell>
                 </TableRow>
 
                 <TableRow>
